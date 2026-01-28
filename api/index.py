@@ -17,7 +17,7 @@ except Exception as e:
 
 # Vercel需要导出handler
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
+app.debug = False
 
-# 创建lambda_handler
-def lambda_handler(event, context):
-    return app(event, context)
+# Vercel需要这个导出
+handler = app
