@@ -1,0 +1,7 @@
+(mysite) 02:20 ~/mysite $ pip uninstall flask flask-sqlalchemy flask-cors werkzeug sqlalchemy gunicorn -y
+WARNING: Skipping flask as it is not installed.
+WARNING: Skipping flask-sqlalchemy as it is not installed.
+WARNING: Skipping flask-cors as it is not installed.
+WARNING: Skipping werkzeug as it is not installed.
+WARNING: Skipping sqlalchemy as it is not installed.
+WARNING: Skipping gunicorn as it is not installed.

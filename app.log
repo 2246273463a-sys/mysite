@@ -1,0 +1,64 @@
+2026-01-28 09:16:31,314 - app - INFO - ´´½¨Ë÷Òý: idx_node_parent_id
+2026-01-28 09:16:31,318 - app - INFO - ´´½¨Ë÷Òý: idx_node_title
+2026-01-28 09:16:31,322 - app - INFO - ´´½¨Ë÷Òý: idx_node_type
+2026-01-28 09:16:31,325 - app - INFO - ´´½¨Ë÷Òý: idx_node_favorite
+2026-01-28 09:16:31,329 - app - INFO - ´´½¨Ë÷Òý: idx_node_updated
+2026-01-28 09:16:31,332 - app - INFO - ´´½¨Ë÷Òý: idx_node_tags
+2026-01-28 09:16:31,347 - app - INFO - Êý¾Ý¿â³õÊ¼»¯Íê³É£¬´´½¨¸ùÄ¿Â¼
+2026-01-28 09:16:31,368 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.49.103:5000
+2026-01-28 09:16:31,369 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:19:35,081 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.49.103:5000
+2026-01-28 09:19:35,082 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:20:01,944 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:01] "GET / HTTP/1.1" 200 -
+2026-01-28 09:20:02,113 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:02] "GET /api/tree HTTP/1.1" 200 -
+2026-01-28 09:20:02,366 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:02] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:20:07,972 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:07] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:20:07,992 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:07] "GET /api/folder/1 HTTP/1.1" 200 -
+2026-01-28 09:20:09,620 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:09] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:20:09,645 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:09] "GET /api/folder/1 HTTP/1.1" 200 -
+2026-01-28 09:20:15,551 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:15] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-01-28 09:20:47,361 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:47] "GET / HTTP/1.1" 200 -
+2026-01-28 09:20:47,512 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:47] "GET /api/tree HTTP/1.1" 200 -
+2026-01-28 09:20:47,528 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:47] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:20:54,480 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:54] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:20:54,508 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:20:54] "GET /api/folder/1 HTTP/1.1" 200 -
+2026-01-28 09:22:49,965 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.49.103:5000
+2026-01-28 09:22:49,966 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:23:09,395 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:23:09] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:23:21,153 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:23:21] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:23:21,190 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:23:21] "GET /api/folder/1 HTTP/1.1" 200 -
+2026-01-28 09:25:16,765 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.49.103:5000
+2026-01-28 09:25:16,765 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:25:47,716 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:25:47] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:28:29,336 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.49.103:5000
+2026-01-28 09:28:29,337 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:28:49,949 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:28:49] "GET / HTTP/1.1" 200 -
+2026-01-28 09:28:49,989 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:28:49] "GET /api/tree HTTP/1.1" 200 -
+2026-01-28 09:28:50,109 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:28:50] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:29:18,026 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:29:18] "GET /api/tree HTTP/1.1" 200 -
+2026-01-28 09:29:18,038 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:29:18] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:29:18,044 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:29:18] "GET /api/recent HTTP/1.1" 200 -
+2026-01-28 09:33:09,695 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-28 09:33:09,695 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-28 09:33:20,370 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:33:20] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:33:23,595 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:33:23] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:33:23,602 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:33:23] "GET /api/folder/1 HTTP/1.1" 200 -
+2026-01-28 09:34:26,361 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:34:26] "GET /api/folder/0 HTTP/1.1" 200 -
+2026-01-28 09:34:29,702 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:34:29] "GET /api/breadcrumbs/1 HTTP/1.1" 200 -
+2026-01-28 09:34:29,760 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2026 09:34:29] "GET /api/folder/1 HTTP/1.1" 200 -

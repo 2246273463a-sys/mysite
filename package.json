@@ -1,0 +1,27 @@
+{
+  "name": "mysite-flask-app",
+  "version": "1.0.0",
+  "description": "Flask应用部署到Vercel",
+  "main": "api/index.py",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for Python'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "flask",
+    "vercel",
+    "serverless"
+  ],
+  "author": "",
+  "license": "MIT"
+}

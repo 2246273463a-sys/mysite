@@ -1,0 +1,13 @@
+{
+  "deployment_time": "2026-01-28T09:10:36.360310",
+  "tests": {
+    "basic_functionality": false,
+    "security": true,
+    "performance": true
+  },
+  "environment": {
+    "python_version": "3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "win32",
+    "working_directory": "C:\\Users\\admin\\Desktop\\mysite"
+  }
+}
