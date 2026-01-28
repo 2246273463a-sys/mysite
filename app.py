@@ -12,12 +12,11 @@ import sqlalchemy as sa
 from werkzeug.security import generate_password_hash, check_password_hash
 import hashlib
 
-# 配置日志
+# 配置日志 - 移除文件日志，只保留控制台输出
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('app.log'),
         logging.StreamHandler()
     ]
 )
